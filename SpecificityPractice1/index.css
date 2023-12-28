@@ -1,0 +1,42 @@
+body{
+    margin:0px;
+    padding:10px;
+}
+.bg-container{
+    background-color: white;
+    background-size: cover;
+    height:100vh;
+}
+h1{
+    color:#03449e;
+    font-family:"Roboto";
+    font-size:30px;
+}
+h2{
+    color:#0967d2;
+    font-family:"Roboto";
+    font-size:40px;
+}
+.card-container{
+    background-color: #d0efff;
+    padding:10px;
+    margin-bottom:15px;
+
+}
+.para-card{
+    color:#47a3f3;
+    font-size:20px;
+    font-family:'Roboto';
+}
+
+.mail-card{
+    background-color: #03254c;
+    padding:10px;
+}
+.mail-info{
+    color: #9aa5b1;
+    font-family:"Roboto";
+    font-style:italic;
+    font-size:20px;
+
+}
